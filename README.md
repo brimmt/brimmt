@@ -5,7 +5,6 @@ Welcome to my GitHub profile! I'm a Clinical Informatics graduate turned Full St
 ### 🔭 Current Projects
 - 🤖 **BrimmBot** – A custom-built portfolio assistant chatbot that answers FAQs about me and my work
 - 📈 **Job Seeker AI** – Helps job hunters organize their resumes, applications, and generate optimized responses
-- 🧠 **Proposal AI** – Assists small businesses with generating and reviewing client proposals using AI
 - 🕹️ **PlayPixelRP** – A Habbo-inspired game server using FastAPI, WebSockets, and custom CMS
 
 ### 🌱 Currently Learning
